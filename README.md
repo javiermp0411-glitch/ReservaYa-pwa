@@ -4,7 +4,7 @@ ReservaYa es un prototipo web para descubrir hoteles, restaurantes y experiencia
 
 Creado por:
 - Emanuel Ovando 
-- Javier Montero 
+- Javier Montero Pérez
 - Sheila López 
 - Raúl de la Cruz
 
